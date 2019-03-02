@@ -6,4 +6,4 @@ Tito is intended to be a simple wifi controlled three-wheels robot, controlled b
 
 - NodeMCU compatible device-
 - 2 motoreductors (they can even be tricked servos!)
-- 
+- 1ULN2803
